@@ -4,4 +4,3 @@ Dbt is a data modeling tool that makes the lives of analysts and engineers a who
 
 
 ![dbt](https://user-images.githubusercontent.com/62420356/135148073-78a53892-2eed-412e-ae2d-43ae73b93840.jpeg)
-![dbt](https://user-images.githubusercontent.com/62420356/135148085-b26b5a13-ec20-4eb7-b669-bef80216434c.jpeg)
